@@ -175,9 +175,18 @@ This dataset is designed for researchers, developers, and professionals working 
 ```
 git clone https://github.com/openlandmap/GEDTM30.git
 ```
+- COG urls of GEDTM30 and Land surface parameters can be found in this csv here: [metadata/cog_list.csv](metadata/cog_list.csv)
 
 - Download the data set from Zenodo ([10.5281/zenodo.14900181](https://zenodo.org/records/14900181))
 
+- Access and visualize COGs in QGIS. 
+
+Please follow the step in the GIF below.
+
+![Alt text](img/open_file_qgis_copy_link.gif)
+
+ **Instruction**:
+`right click` --> `copy link` --> `paste to QGIS Layer >> Add Layer >> Add Raster Layer >> select Protocol:HTTP(S), cloud, etc. >> paste the url and you can visualize in QGIS`.
 
 ## Citation
 

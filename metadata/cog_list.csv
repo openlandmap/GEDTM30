@@ -1,0 +1,19 @@
+name,doi,scale,data_type,no_data,measurement unit,url
+Ensemble Digital Terrain Model,https://zenodo.org/records/14900181,10,Int32,"-2,147,483,647",meter,https://s3.opengeohub.org/global/edtm/legendtm_rf_30m_m_s_20000101_20231231_go_epsg.4326_v20250130.tif
+Standard Deviation EDTM,https://zenodo.org/records/14900181,100,UInt16,"65,535",meter,https://s3.opengeohub.org/global/edtm/gendtm_rf_30m_std_s_20000101_20231231_go_epsg.4326_v20250209.tif
+Difference from Mean Elevation,https://zenodo.org/records/14919451,100,Int16,"32,767",,https://s3.opengeohub.org/global/dtm/v3/dfme_edtm_m_30m_s_20000101_20221231_go_epsg.4326_v20241230.tif
+Geomorphons,https://zenodo.org/records/14920357,1,Byte,255,,https://s3.opengeohub.org/global/dtm/v3/geomorphon_edtm_m_30m_s_20000101_20221231_go_epsg.4326_v20241230.tif
+Hillshade,https://zenodo.org/records/14920359,1,UInt16,"65,535",,https://s3.opengeohub.org/global/dtm/v3/hillshade_edtm_m_30m_s_20000101_20221231_go_epsg.4326_v20241230.tif
+LS Factor,https://zenodo.org/records/14920361,"1,000",UInt16,"65,535",,https://s3.opengeohub.org/global/dtm/v3/ls.factor_edtm_m_30m_s_20000101_20221231_go_epsg.4326_v20241230.tif
+Maximal Curvature,https://zenodo.org/records/14920363,"1,000",Int16,"32,767",m-1,https://s3.opengeohub.org/global/dtm/v3/maxic_edtm_m_30m_s_20000101_20221231_go_epsg.4326_v20241230.tif
+Minimal Curvature,https://zenodo.org/records/14920365,"1,000",Int16,"32,767",m-1,https://s3.opengeohub.org/global/dtm/v3/minic_edtm_m_30m_s_20000101_20221231_go_epsg.4326_v20241230.tif
+Negative Openness,https://zenodo.org/records/14920369,100,UInt16,"65,535",,https://s3.opengeohub.org/global/dtm/v3/neg.openness_edtm_m_30m_s_20000101_20221231_go_epsg.4326_v20241230.tif
+Positive Openness,https://zenodo.org/records/14920371,100,UInt16,"65,535",,https://s3.opengeohub.org/global/dtm/v3/pos.openness_edtm_m_30m_s_20000101_20221231_go_epsg.4326_v20241230.tif
+Profile Curvature,https://zenodo.org/records/14920373,"1,000",Int16,"32,767",m-2,https://s3.opengeohub.org/global/dtm/v3/pro.curv_edtm_m_30m_s_20000101_20221231_go_epsg.4326_v20241230.tif
+Ring Curvature,https://zenodo.org/records/14920375,"10,000",Int16,"32,767",m-1,https://s3.opengeohub.org/global/dtm/v3/ring.curv_edtm_m_30m_s_20000101_20221231_go_epsg.4326_v20241230.tif
+Shape Index,https://zenodo.org/records/14920377,"1,000",Int16,"32,767",,https://s3.opengeohub.org/global/dtm/v3/shpindx_edtm_m_30m_s_20000101_20221231_go_epsg.4326_v20241230.tif
+Slope in Degree,https://zenodo.org/records/14920379,100,UInt16,"65,535",,https://s3.opengeohub.org/global/dtm/v3/slope.in.degree_edtm_m_30m_s_20000101_20221231_go_epsg.4326_v20241230.tif
+Specific Catchment Area,https://zenodo.org/records/14920381,"1,000",UInt16,"65,535",,https://s3.opengeohub.org/global/dtm/v3/spec.catch_edtm_m_30m_s_20000101_20221231_go_epsg.4326_v20241230.tif
+Spherical Standard Deviation of the Normals,https://zenodo.org/records/14920383,100,Int16,"32,767",,https://s3.opengeohub.org/global/dtm/v3/ssdon_edtm_m_30m_s_20000101_20221231_go_epsg.4326_v20241230.tif
+Tangential Curvature,https://zenodo.org/records/14920385,"1,000",Int16,"32,767",m-1,https://s3.opengeohub.org/global/dtm/v3/tan.curv_edtm_m_30m_s_20000101_20221231_go_epsg.4326_v20241230.tif
+Topographic Wetness Index,https://zenodo.org/records/14920387,100,Int16,"32,767",,https://s3.opengeohub.org/global/dtm/v3/twi_edtm_m_30m_s_20000101_20221231_go_epsg.4326_v20241230.tif
