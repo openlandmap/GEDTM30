@@ -181,10 +181,35 @@ git clone https://github.com/openlandmap/GEDTM30.git
 
 ## Citation
 
-If you use this dataset in your research or application, please cite:
+If you use this dataset in your research or application, please cite as:
+
 ```
-Ho, Y., & Hengl, T. (2025). Global Ensemble Digital Terrain Model 30m (GEDTM30) (Version v20250130) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14900181
+@dataset{ho_2025_14900181,
+  author       = {Ho, Yufeng and Hengl, Tomislav},
+  title        = {Global Ensemble Digital Terrain Model 30m (GEDTM30)},
+  month        = feb,
+  year         = 2025,
+  publisher    = {Zenodo},
+  version      = {v20250130},
+  doi          = {10.5281/zenodo.14900181},
+  url          = {https://doi.org/10.5281/zenodo.14900181},
+}
 ```
+
+[Technical documentation](https://www.researchsquare.com/article/rs-6280607/v1) can be cited as:
+
+```
+@Article{yufengho2025GEDTM30,
+AUTHOR = {Ho, Yu-Feng and Grohmann, Carlos H and Lindsay, John and Reuter, Hannes I and Parente, Leandro and Witjes, Martijn and Hengl, Tomislav},
+TITLE = {{Global Ensemble Digital Terrain modeling and parametrization at 30 m resolution (GEDTM30): a data fusion approach based on ICESat-2, GEDI and multisource data}},
+JOURNAL = {PeerJ},
+VOLUME = {in review},
+YEAR = {2025?},
+PAGES = {1--49},
+DOI = {10.21203/rs.3.rs-6280607/v1}
+}
+```
+
 ## License
 
 This dataset is released under fully open license [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en). 
