@@ -2,9 +2,9 @@
 
 ## Overview
 
-GEDTM30 is a **global 1-arc-second (~30m) Digital Terrain Model (DTM)** built using a machine-learning-based data fusion approach. This dataset was generated using a global-to-local random forest model trained on ICEsat-2 and GEDI data, leveraging almost 30 billion of the highest-quality elevation points. 
+[GEDTM30](https://doi.org/10.7717/peerj.19673) is a **global 1-arc-second (~30m) Digital Terrain Model (DTM)** built using a machine-learning-based data fusion approach. This dataset was generated using a global-to-local random forest model trained on ICEsat-2 and GEDI data, leveraging almost 30 billion of the highest-quality elevation points. 
 
-GEDTM30 is also used to generate 15 land surface parameters at six scales (30, 60, 120, 240, 480 and 960m), covering aspects of topographic position, light and shadow, landform characteristics, and hydrology. A publication describing methods used has been submitted to PeerJ and is in review. The repository demonstrates the modeling and parametrization. 
+[GEDTM30](https://doi.org/10.7717/peerj.19673) is also used to generate 15 land surface parameters at six scales (30, 60, 120, 240, 480 and 960m), covering aspects of topographic position, light and shadow, landform characteristics, and hydrology. A publication describing methods used has been submitted to PeerJ and is in review. The repository demonstrates the modeling and parametrization. 
 
 ## Data Components
 
@@ -205,17 +205,17 @@ If you use this dataset in your research or application, please cite as:
 }
 ```
 
-[Technical documentation](https://www.researchsquare.com/article/rs-6280607/v1) can be cited as:
+[Technical documentation](https://doi.org/10.7717/peerj.19673) can be cited as:
 
 ```
 @Article{yufengho2025GEDTM30,
 AUTHOR = {Ho, Yu-Feng and Grohmann, Carlos H and Lindsay, John and Reuter, Hannes I and Parente, Leandro and Witjes, Martijn and Hengl, Tomislav},
 TITLE = {{Global Ensemble Digital Terrain modeling and parametrization at 30 m resolution (GEDTM30): a data fusion approach based on ICESat-2, GEDI and multisource data}},
 JOURNAL = {PeerJ},
-VOLUME = {in review},
+VOLUME = {13},
 YEAR = {2025?},
-PAGES = {1--49},
-DOI = {10.21203/rs.3.rs-6280607/v1}
+PAGES = {e19673},
+DOI = {10.7717/peerj.19673}
 }
 ```
 
