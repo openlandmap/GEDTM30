@@ -1,5 +1,10 @@
 # GEDTM30
 
+*Note (updated 08-27-2025): We computed DTM and Terrain variables in 0.00025 (~0.9 arc sec), which could be resampled by cubicspline to 0.000277777777778 (1 arc sec). We are also preparing 1 arc second of GEDTM30, that can be accessed from here:*
+
+
+- [https://s3.opengeohub.org/global/edtm/gedtm_rf_m_30m_s_20060101_20151231_go_epsg.4326.3855_v1.2.tif](https://s3.opengeohub.org/global/edtm/gedtm_rf_m_30m_s_20060101_20151231_go_epsg.4326.3855_v1.2.tif)
+
 ## Overview
 
 [GEDTM30](https://doi.org/10.7717/peerj.19673) is a **global 1-arc-second (~30m) Digital Terrain Model (DTM)** built using a machine-learning-based data fusion approach. This dataset was generated using a global-to-local random forest model trained on ICEsat-2 and GEDI data, leveraging almost 30 billion of the highest-quality elevation points. 
