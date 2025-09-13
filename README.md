@@ -10,7 +10,7 @@
 
 (Update 27-08-2025): We computed DTM and Terrain variables in 0.00025 (~0.9 arc sec), which could be resampled by cubicspline to 0.000277777777778 (1 arc sec). We are also preparing 1 arc second of GEDTM30, that can be accessed from here:*
 
-- [https://s3.opengeohub.org/global/edtm/gedtm_rf_m_30m_s_20060101_20151231_go_epsg.4326.3855_v1.2.tif](https://s3.opengeohub.org/global/edtm/gedtm_rf_m_30m_s_20060101_20151231_go_epsg.4326.3855_v1.2.tif)
+- [https://s3.opengeohub.org/global/dtm/v1.2/gedtm_rf_m_30m_s_20060101_20151231_go_epsg.4326.3855_v1.2.tif](https://s3.opengeohub.org/global/dtm/v1.2/gedtm_rf_m_30m_s_20060101_20151231_go_epsg.4326.3855_v1.2.tif)
 
 
 (Update 13-08-2025): currently the dataset was produced by resampling to 0.00025 degree, which is closer to 0.9 arc sec. We are curretly working on produce a 0.000277778 degree GEDTM30 to resolve the confusion. See the issue detail [here](https://github.com/openlandmap/GEDTM30/issues/8).*
