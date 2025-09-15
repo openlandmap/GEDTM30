@@ -234,6 +234,13 @@ DOI = {10.7717/peerj.19673}
 
 This dataset is released under fully open license [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en). 
 
+## Acknowledgements & Funding
+
+This work is supported by [OpenGeoHub Foundation](https://opengeohub.org/) and has received funding from the European Commission (EC) through the projects:
+
+- [Open-Earth-Monitor Cyberinfrastructure](https://earthmonitor.org/): Environmental information to support EU’s Green Deal (1 Jun. 2022 – 31 May 2026 - [101059548](https://cordis.europa.eu/project/id/101059548))
+
+
 ## Contact
 
 For any questions or contributions, feel free to open an issue or reach out via [yu-feng.ho@opengeohub.org].
