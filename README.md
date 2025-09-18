@@ -1,7 +1,7 @@
 # GEDTM30
 ## Overview
 
-[GEDTM30](https://doi.org/10.7717/peerj.19673) is a **global 1-arc-second (~30m) Digital Terrain Model (DTM)** built using a machine-learning-based data fusion approach. This dataset was generated using a global-to-local random forest model trained on ICEsat-2 and GEDI data, leveraging almost 30 billion of the highest-quality elevation points. 
+[GEDTM30](https://doi.org/10.7717/peerj.19673) is a **Global 1-arc-second (~30m) Digital Terrain Model (DTM)** built using a machine-learning-based data fusion approach. This dataset was generated using a global-to-local random forest model trained on ICEsat-2 and GEDI data, leveraging almost 30 billion of the highest-quality elevation points. 
 
 [GEDTM30](https://doi.org/10.7717/peerj.19673) is also used to generate 15 land surface parameters at six scales (30, 60, 120, 240, 480 and 960m), covering aspects of topographic position, light and shadow, landform characteristics, and hydrology. A publication describing methods used has been submitted to PeerJ and is in review. The repository demonstrates the modeling and parametrization. 
 
